@@ -1,3 +1,44 @@
-body{
-    background-color: rgba(rgb(255, 0, 0), green, blue, alpha);
+header{
+    background-color: #2690F2;
+}
+.ney{
+    position: absolute;
+width: 293px;
+height: 278px;
+left: 20px;
+top: 36px;
+border-radius: 150px;
+}
+.titulo{
+    position: absolute;
+height: 94px;
+left: 455px;
+top: 34px;
+
+font-family: 'Arima Madurai';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 114px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.cabeçalho{
+    position: absolute;
+width: 618px;
+height: 94px;
+left: 455px;
+top: 34px;
+
+font-family: 'Arima Madurai';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 114px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
